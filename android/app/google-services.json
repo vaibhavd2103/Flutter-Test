@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "358920706819",
+    "project_id": "fir-flutter-b634b",
+    "storage_bucket": "fir-flutter-b634b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358920706819:android:b9c6e864412a50434ce736",
+        "android_client_info": {
+          "package_name": "com.test.bibi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358920706819-gqbn7v5uhjlq4csr562mb5f4ujn6l9oj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCOcwbAyDyM8Fx1tl0-Ve2TOwWj5Y9eh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358920706819-gqbn7v5uhjlq4csr562mb5f4ujn6l9oj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
